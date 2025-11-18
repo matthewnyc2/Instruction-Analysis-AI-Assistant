@@ -1,0 +1,7 @@
+# Instruction Analysis AI Assistant - Python Dependencies
+# This project uses only Python standard library
+# No external dependencies required for core functionality
+
+# Development dependencies (optional)
+# pytest>=7.4.0  # For running tests
+# pytest-cov>=4.1.0  # For test coverage reports
